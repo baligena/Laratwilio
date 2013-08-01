@@ -29,12 +29,3 @@
 Anywhere in your application when you need to send an sms message, just do:
 
     Sms::send(array('to'=>'+12345678', 'text'=>'hello world'));
-
-## Disclaimer
-This is my first package and I'm very new to all this.
-
-Most likely I'm doing lots of things wrong. Use at your own risk.
-
-If there is a better way of doing anything here - I'm looking forward to your pull requests.
-
-May the force be with you.
